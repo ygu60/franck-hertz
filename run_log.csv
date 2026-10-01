@@ -1,0 +1,2 @@
+RunID,Timestamp,RunNumber,V_reverse_V,V_acceleration_V,V_heater_V,CH1_min_V,CH1_max_V,CH2_min_V,CH2_max_V,Points,Folder,Notes
+FH_20261001_135549_R01_Vr6p00_Va40p00_Vh8p00,2026-10-01 13:55:49,1,6,40,8,-0.0350,5.4050,-8.1920,11.5840,1250000,"C:\Users\Owner\Desktop\FL2026\Physics 4027\Franck-Hertz\01OCT26\FH_20261001_135549_R01_Vr6p00_Va40p00_Vh8p00",""

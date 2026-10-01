@@ -1,0 +1,8 @@
+# Large raw data stays local (~68 MB per run)
+*_Waveforms.txt
+*_Curve.txt
+*.mat
+*.fig
+
+# Local dialog defaults
+last_run_params.mat
