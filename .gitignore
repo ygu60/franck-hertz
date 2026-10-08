@@ -6,3 +6,9 @@
 
 # Local dialog defaults
 last_run_params.mat
+
+# Unfinished zips
+*.zip.part
+
+# Raw-data zips are uploaded to GitHub Releases, not committed
+*_raw.zip

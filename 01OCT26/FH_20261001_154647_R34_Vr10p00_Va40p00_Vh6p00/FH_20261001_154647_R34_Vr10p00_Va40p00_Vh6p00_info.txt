@@ -1,0 +1,13 @@
+Run ID          : FH_20261001_154647_R34_Vr10p00_Va40p00_Vh6p00
+Timestamp       : 2026-10-01 15:46:47
+Run number      : 34
+V_reverse       : 10 V
+V_acceleration  : 40 V
+V_heater        : 6 V
+Notes           : 
+Oscilloscope    : TEKTRONIX,DPO2024B,C041827,CF:91.1CT FV:v1.56
+CH1 / CH2 V/div : 1 / 2.4
+Record length   : 1250000
+Matched points  : 1250000
+CH1 min / max   : -0.0350 / 4.7650 V
+CH2 min / max   : -0.2240 / 0.3520 V

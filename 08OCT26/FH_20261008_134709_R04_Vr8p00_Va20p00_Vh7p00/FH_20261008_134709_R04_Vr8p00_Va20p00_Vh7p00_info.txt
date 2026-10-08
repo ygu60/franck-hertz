@@ -1,0 +1,13 @@
+Run ID          : FH_20261008_134709_R04_Vr8p00_Va20p00_Vh7p00
+Timestamp       : 2026-10-08 13:47:09
+Run number      : 4
+V_reverse       : 8 V
+V_acceleration  : 20 V
+V_heater        : 7 V
+Notes           : 
+Oscilloscope    : TEKTRONIX,DPO2024B,C041827,CF:91.1CT FV:v1.56
+CH1 / CH2 V/div : 1 / 2.4
+Record length   : 1250000
+Matched points  : 1250000
+CH1 min / max   : -0.0350 / 2.7250 V
+CH2 min / max   : -1.1840 / 1.0240 V
